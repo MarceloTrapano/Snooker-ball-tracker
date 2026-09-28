@@ -2,7 +2,7 @@
 
 # 🎱 Snooker Tracker
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-classical%20CV-green.svg)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-NumPy-blue.svg)](https://numpy.org/)
 
